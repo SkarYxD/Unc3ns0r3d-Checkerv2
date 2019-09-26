@@ -71,13 +71,13 @@ curl_setopt($ch, CURLOPT_POSTFIELDS, 'token='.$token.'&clientIp='.$ip.'&category
 $page = curl_exec($ch);
 curl_close($ch);
 if(substr_count($page, "card_declined") > 0){
-  echo '<span class="label label-danger">Dead - '.$check.' - Your card was declined'.'#TESTE CHECKER PRO<br></span>';
+  echo '<span class="label label-danger">Dead - '.$check.' - Your card was declined'.'#UNC3NS0R3D<br></span>';
   }
   if(substr_count($page, "incorrect_cvc") > 0){
-    echo '<span class="label label-danger">Dead - '.$check.' - Your card was declined'.'#TESTE CHECKER PRO<br></span>';
+    echo '<span class="label label-danger">Dead - '.$check.' - Your card was declined'.'#UNC3NS0R3DO<br></span>';
     }
   if(substr_count($page, "incorrect_number") > 0){
-    echo '<span class="label label-success">Live - '.$check.' - Your card was approved'.'#TESTE CHECKER PRO<br></span>';
+    echo '<span class="label label-success">Live - '.$check.' - Your card was approved'.'#UNC3NS0R3D<br></span>';
 }
 //As you can see, legit tong checker to kaya putang ina kau.
 ?>
