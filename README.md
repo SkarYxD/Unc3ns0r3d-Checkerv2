@@ -51,8 +51,8 @@ $token = trim(strip_tags(getstr($pagamento,'id": "','"')));
 
 - api.php **Free**
 - api_1.php **Free**
-- api_p1.php **Pay** @MrPopos2 - **Telegram**
-- api_p2.php **Pay** @MrPopos2 - **Telegram**
+- api_p1.php **Pay** > @MrPopos2 - **Telegram** - SkarY#0554 - **Discord**
+- api_p2.php **Pay** > @MrPopos2 - **Telegram** - SkarY#0554 - **Discord**
 
 
 ### About Me 👨‍💻
@@ -67,6 +67,7 @@ The Unc3ns0r3d project was created 04/26/2018
 
 ### Contact Me ✉
 - @MrPopos2 - Telegram
+- SkarY#0554 - Discord
 
 ================================================================
 
@@ -118,8 +119,8 @@ $token = trim(strip_tags(getstr($pagamento,'id": "','"')));
 
 - api.php **Gratuito**
 - api_1.php **Gratuito**
-- api_p1.php **Pago** @MrPopos2 - **Telegram**
-- api_p2.php **Pago** @MrPopos2 - **Telegram**
+- api_p1.php **Pago**  > @MrPopos2 - **Telegram** - SkarY#0554 - **Discord**
+- api_p2.php **Pago**  > @MrPopos2 - **Telegram** - SkarY#0554 - **Discord**
 
 ### Sobre Mi 👨‍💻
 
@@ -133,3 +134,4 @@ Proyecto Unc3ns0r3d fue creado el día 04/26/2018 / Editado 24/08/2019
 
 ### Contactame ✉
 - @MrPopos2 - Telegram
+- SkarY#0554 - Discord
