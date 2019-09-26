@@ -129,7 +129,7 @@ Mis lenguajes favorios de programación son C ++, VB.NET, PYTHON, PHP, JAVASCIPR
 
 Amo el café❤
 
-Proyecto Unc3ns0r3d fue creado el día 04/26/2018
+Proyecto Unc3ns0r3d fue creado el día 04/26/2018 / Editado 24/08/2019
 
 ### Contactame ✉
 - @MrPopos2 - Telegram
