@@ -51,8 +51,8 @@ $token = trim(strip_tags(getstr($pagamento,'id": "','"')));
 
 - api.php **Free**
 - api_1.php **Free**
-- api_p1.php **Pay**
-- api_p2.php **Pay**
+- api_p1.php **Pay** @MrPopos2 - **Telegram**
+- api_p2.php **Pay** @MrPopos2 - **Telegram**
 
 
 ### About Me 👨‍💻
@@ -118,8 +118,8 @@ $token = trim(strip_tags(getstr($pagamento,'id": "','"')));
 
 - api.php **Gratuito**
 - api_1.php **Gratuito**
-- api_p1.php **Pago**
-- api_p2.php **Pago**
+- api_p1.php **Pago** @MrPopos2 - **Telegram**
+- api_p2.php **Pago** @MrPopos2 - **Telegram**
 
 ### Sobre Mi 👨‍💻
 
